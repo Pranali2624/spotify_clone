@@ -52,7 +52,7 @@ nav ul li{
    width: 70%;
    border-radius: 12px;
    padding: 34px;
-   background-image: url("/photos/headphone.png");
+   background-image: url("\photos\headphone.png");
    background-repeat: no-repeat;
    background-position: right; 
    background-size: 30%;
